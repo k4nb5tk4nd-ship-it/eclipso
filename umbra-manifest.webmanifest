@@ -1,6 +1,6 @@
 {
-  "name": "ECLIPSO · Eclipsis d'Espanya",
-  "short_name": "ECLIPSO",
+  "name": "ASTERIA Eclipse Planner",
+  "short_name": "ASTERIA",
   "description": "Planificació dels eclipsis de Sol visibles a Espanya el 2026, 2027 i 2028, amb rutes, seguretat i allotjament.",
   "lang": "ca",
   "start_url": "./index.html",

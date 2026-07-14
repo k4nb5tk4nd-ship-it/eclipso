@@ -1,4 +1,4 @@
-# ECLIPSO
+# ASTERIA Eclipse Planner
 
 Planificació, seguiment i observació segura dels eclipsis solars visibles a Espanya els anys 2026, 2027 i 2028.
 
@@ -14,9 +14,9 @@ Idiomes: [Català](#català) · [Español](#español) · [English](#english) · 
 
 ## Català
 
-### Què és ECLIPSO?
+### Què és ASTERIA Eclipse Planner?
 
-ECLIPSO és una aplicació web progressiva per preparar l’observació dels tres eclipsis solars que afecten Espanya entre 2026 i 2028:
+ASTERIA Eclipse Planner és una aplicació web progressiva per preparar l’observació dels tres eclipsis solars que afecten Espanya entre 2026 i 2028:
 
 - **12 d’agost de 2026:** eclipsi total, visible dins la franja que travessa el nord peninsular i arriba a les Illes Balears.
 - **2 d’agost de 2027:** eclipsi total, amb totalitat al sud peninsular, Ceuta i Melilla.
@@ -81,9 +81,9 @@ Els horaris, les rutes, els allotjaments i les representacions cartogràfiques s
 
 ## Español
 
-### ¿Qué es ECLIPSO?
+### ¿Qué es ASTERIA Eclipse Planner?
 
-ECLIPSO es una aplicación web progresiva para preparar la observación de los tres eclipses solares que afectan a España entre 2026 y 2028:
+ASTERIA Eclipse Planner es una aplicación web progresiva para preparar la observación de los tres eclipses solares que afectan a España entre 2026 y 2028:
 
 - **12 de agosto de 2026:** eclipse total, visible dentro de la franja que atraviesa el norte peninsular y llega a las Islas Baleares.
 - **2 de agosto de 2027:** eclipse total, con totalidad en el sur peninsular, Ceuta y Melilla.
@@ -141,9 +141,9 @@ La aplicación utiliza datos o servicios del [IGN](https://eclipses.ign.es/), [N
 
 ## English
 
-### What is ECLIPSO?
+### What is ASTERIA Eclipse Planner?
 
-ECLIPSO is a progressive web application for planning the observation of the three solar eclipses affecting Spain between 2026 and 2028:
+ASTERIA Eclipse Planner is a progressive web application for planning the observation of the three solar eclipses affecting Spain between 2026 and 2028:
 
 - **12 August 2026:** total solar eclipse crossing northern mainland Spain and reaching the Balearic Islands.
 - **2 August 2027:** total solar eclipse across southern mainland Spain, Ceuta and Melilla.
@@ -195,15 +195,15 @@ Meetups are stored locally on the device. Shared invitation details are encoded 
 
 ### Sources and external services
 
-ECLIPSO uses data or services from the [Spanish National Geographic Institute](https://eclipses.ign.es/), [NASA GSFC](https://eclipse.gsfc.nasa.gov/solar.html), [OpenStreetMap](https://www.openstreetmap.org/), Leaflet, Astronomy Engine, Overpass and OSRM. Timings, routes, accommodation results and maps are indicative and must be checked against official sources.
+ASTERIA Eclipse Planner uses data or services from the [Spanish National Geographic Institute](https://eclipses.ign.es/), [NASA GSFC](https://eclipse.gsfc.nasa.gov/solar.html), [OpenStreetMap](https://www.openstreetmap.org/), Leaflet, Astronomy Engine, Overpass and OSRM. Timings, routes, accommodation results and maps are indicative and must be checked against official sources.
 
 ---
 
 ## Galego
 
-### Que é ECLIPSO?
+### Que é ASTERIA Eclipse Planner?
 
-ECLIPSO é unha aplicación web progresiva para preparar a observación das tres eclipses solares que afectan a España entre 2026 e 2028:
+ASTERIA Eclipse Planner é unha aplicación web progresiva para preparar a observación das tres eclipses solares que afectan a España entre 2026 e 2028:
 
 - **12 de agosto de 2026:** eclipse total que atravesa o norte peninsular e chega ás Illas Baleares.
 - **2 de agosto de 2027:** eclipse total no sur peninsular, Ceuta e Melilla.
@@ -248,9 +248,9 @@ A aplicación utiliza datos ou servizos do [IGN](https://eclipses.ign.es/), [NAS
 
 ## Euskara
 
-### Zer da ECLIPSO?
+### Zer da ASTERIA Eclipse Planner?
 
-ECLIPSO 2026tik 2028ra Espainian eragina duten hiru eguzki-eklipseen behaketa prestatzeko web-aplikazio progresiboa da:
+ASTERIA Eclipse Planner 2026tik 2028ra Espainian eragina duten hiru eguzki-eklipseen behaketa prestatzeko web-aplikazio progresiboa da:
 
 - **2026ko abuztuaren 12a:** iparraldeko penintsula zeharkatu eta Balear Uharteetara iristen den eklipse osoa.
 - **2027ko abuztuaren 2a:** penintsulako hegoaldean, Ceutan eta Melillan ikusiko den eklipse osoa.
@@ -314,8 +314,8 @@ eclipso/
 
 ## License / Llicència
 
-The original ECLIPSO source code, design and content may not be copied, modified, redistributed or commercially exploited without prior written authorisation from Jordi Ibarz Panades. Third-party libraries, data and services remain subject to their own licences and terms.
+The original ASTERIA Eclipse Planner source code, design and content may not be copied, modified, redistributed or commercially exploited without prior written authorisation from Jordi Ibarz Panades. Third-party libraries, data and services remain subject to their own licences and terms.
 
-El codi, el disseny i els continguts originals d’ECLIPSO no es poden copiar, modificar, redistribuir ni explotar comercialment sense l’autorització prèvia i escrita de Jordi Ibarz Panades. Les biblioteques, les dades i els serveis de tercers mantenen les seves pròpies llicències i condicions.
+El codi, el disseny i els continguts originals d’ASTERIA Eclipse Planner no es poden copiar, modificar, redistribuir ni explotar comercialment sense l’autorització prèvia i escrita de Jordi Ibarz Panades. Les biblioteques, les dades i els serveis de tercers mantenen les seves pròpies llicències i condicions.
 
 Consulta [LICENSE](./LICENSE) per conèixer totes les condicions.
