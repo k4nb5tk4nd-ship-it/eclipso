@@ -1,7 +1,7 @@
 {
-  "name": "ECLIPSO · Eclipsi total Espanya",
+  "name": "ECLIPSO · Eclipsis d'Espanya",
   "short_name": "ECLIPSO",
-  "description": "Seguiment i planificació de l'eclipsi total de Sol del 12 d'agost de 2026 a Espanya.",
+  "description": "Planificació dels eclipsis de Sol visibles a Espanya el 2026, 2027 i 2028, amb rutes, seguretat i allotjament.",
   "lang": "ca",
   "start_url": "./index.html",
   "scope": "./",
